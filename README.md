@@ -1,16 +1,32 @@
 ## Hi there 👋
+# 👋 Hi, I'm Hakeem Mills
 
-<!--
-**hakeemmills/hakeemmills** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Cloud Security | Cybersecurity Enthusiast  
+📜 CompTIA Security+ | CySA+ Certified  
+🌐 Remote | Open to Opportunities
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+
+- **Cloud Platforms:** Azure, AWS
+- **Security Tools:** Splunk, Wireshark, Nessus
+- **Languages:** PowerShell
+- **Certifications:** Security+, CySA+
+
+---
+
+## 📂 Projects
+
+I'm currently working on:
+
+- **Azure Security Baseline:** Implementing security best practices in Azure environments.
+
+---
+
+## 📫 Contact Me
+
+- [LinkedIn](https://www.linkedin.com/in/hakeem-mills/)
+- [Email](Mills.t.hakeem@gmail.com)
+
+Let's connect and collaborate on exciting projects!
