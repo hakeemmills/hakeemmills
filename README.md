@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Hakeem Mills
 
 🔐 Cloud Security | Cybersecurity Enthusiast  
-📜 CompTIA Security+ | CySA+ Certified  
+📜 CompTIA Security+ | CySA+ Certified | ISC2 CC
 🌐 Remote | Open to Opportunities
 
 ---
